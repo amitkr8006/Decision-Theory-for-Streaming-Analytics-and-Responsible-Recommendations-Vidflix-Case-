@@ -1,0 +1,2 @@
+# Decision-Theory-for-Streaming-Analytics-and-Responsible-Recommendations-Vidflix-Case-
+Decision-theory case project for Vidflix evaluating a third-party recommender (FilMine) with bias risks, governance terms, accuracy/bias testing, explainability and compliance. Includes a decision-tree framework, GenAI prompt + critique for richer analytics/marketing, and an association-rule insight to improve recommendations and content strategy.
